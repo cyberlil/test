@@ -2,5 +2,4 @@
 2 web
 3 git gui&
 
-אשךפגû 
-and gab
+clear
